@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5fae31ad-a950-40dd-a8ea-730df828be89/resourceGroups/PierreAvenant/providers/Microsoft.Web/sites/PierreAvenant",
+    "appService.deploySubpath": ""
+}

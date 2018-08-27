@@ -1,0 +1,11 @@
+C:\Code\pierreavenantVS\bin\Release\netcoreapp2.0\pierreavenant.deps.json
+C:\Code\pierreavenantVS\bin\Release\netcoreapp2.0\pierreavenant.runtimeconfig.json
+C:\Code\pierreavenantVS\bin\Release\netcoreapp2.0\pierreavenant.runtimeconfig.dev.json
+C:\Code\pierreavenantVS\bin\Release\netcoreapp2.0\pierreavenant.dll
+C:\Code\pierreavenantVS\bin\Release\netcoreapp2.0\pierreavenant.pdb
+C:\Code\pierreavenantVS\obj\Release\netcoreapp2.0\pierreavenant.csproj.CoreCompileInputs.cache
+C:\Code\pierreavenantVS\obj\Release\netcoreapp2.0\pierreavenant.AssemblyInfoInputs.cache
+C:\Code\pierreavenantVS\obj\Release\netcoreapp2.0\pierreavenant.AssemblyInfo.cs
+C:\Code\pierreavenantVS\obj\Release\netcoreapp2.0\pierreavenant.dll
+C:\Code\pierreavenantVS\obj\Release\netcoreapp2.0\pierreavenant.pdb
+C:\Code\pierreavenantVS\obj\Release\netcoreapp2.0\pierreavenant.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Code\pierreavenantVS
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=pierreavenant
+--content-root=C:\Code\pierreavenantVS
+--file=C:\Code\pierreavenantVS\Views\Home\About.cshtml
+--file=C:\Code\pierreavenantVS\Views\Home\Contact.cshtml
+--file=C:\Code\pierreavenantVS\Views\Home\Index.cshtml
+--file=C:\Code\pierreavenantVS\Views\Shared\Error.cshtml
+--file=C:\Code\pierreavenantVS\Views\Shared\_Layout.cshtml
+--file=C:\Code\pierreavenantVS\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Code\pierreavenantVS\Views\_ViewImports.cshtml
+--file=C:\Code\pierreavenantVS\Views\_ViewStart.cshtml

@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\pierreavenant\\pierreavenant.csproj",
+      "projectUniqueName": "C:\\Code\\pierreavenantVS\\pierreavenant.csproj",
       "projectName": "pierreavenant",
-      "projectPath": "C:\\Code\\pierreavenant\\pierreavenant.csproj",
+      "projectPath": "C:\\Code\\pierreavenantVS\\pierreavenant.csproj",
       "packagesPath": "C:\\Users\\pierr\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\pierreavenant\\obj\\",
+      "outputPath": "C:\\Code\\pierreavenantVS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
