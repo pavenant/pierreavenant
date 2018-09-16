@@ -1,0 +1,4 @@
+﻿Question
+is int a object
+Answer
+Everything in C# inherits from object , including int . Both reference and value types are derived from the ultimate base class Object. Int32 is a struct, which is like a type (compile time) and not an object (run time). So you can't say " Int32 is an object", but you could say " Int32 inherits from object"
